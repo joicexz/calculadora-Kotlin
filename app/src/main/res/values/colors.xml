@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="titulo">#78184a</color>
+    <color name="fort_pink">#c33b80</color>
+    <color name="soft_pink">#DE6796</color>
+    <color name="fundo">#ffc0cb</color>
+</resources>
